@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 /**
  *main - printing in c
+ *
  *Return: Always 0 (good)
  */
 
