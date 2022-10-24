@@ -1,8 +1,8 @@
-#include "main.h"
+include "main.h"
 
 /**
  *_strlen -length of a string
- *@s: A p0inter to an int that will be changed/updated
+ *@s: A pointer to an int that will be changed/updated
  *
  *Return: void that means our answer is correct
  */
